@@ -1,0 +1,1 @@
+const DATABASE_ID = import.meta.env.VITE_APPWRITE_DATABASE_ID;
