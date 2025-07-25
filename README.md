@@ -1,23 +1,25 @@
-# Movie App - ReactJS
+# 🎬 Movie App (React + Vite + TailwindCSS)
 
-A sleek ReactJS app using TMDb API to browse trending movies, search for films, and see key details like ratings, year, and language — all wrapped in a cool blue UI.
+A sleek and modern movie web app built with **ReactJS**, **Vite**, and **TailwindCSS**. Browse trending movies with stylish UI.
 
-## Features
+## ✨ Features
 
-- **Trending Movies:** Displays the latest trending movies from TMDb.
-- **Search:** Find movies by title.
-- **Details:** Shows movie ratings, release year, and language.
-- **Error Handling:** Displays user-friendly messages during loading errors or no results.
-- **Loading State:** Shows a spinner while data loads.
-- **Responsive Design:** Looks great on desktop and mobile devices.
+- Browse trending movies
+- Responsive dark-themed UI
+- TailwindCSS for styling
+- Hero section with dynamic background
+- Modular component-based design
 
-## Demo
+## 🧰 Tech Stack
 
-_Add your live demo URL here if available._
+- ReactJS
+- Vite
+- TailwindCSS
+- TMDb API *(optional if you used one)*
 
-## Installation
+## 🚀 Getting Started
 
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/surya77-dev/movie-app.git
-   cd movie-app
+```bash
+npm install
+npm run dev
+>>>>>>> 584b8c72c68e065251e136e3ceade91dbb9f51ab
